@@ -58,7 +58,7 @@ Também existe a versão `.png` no servidor para quem preferir o formato sem com
 **Opção A — Instalação com um clique:**
 Abra o link abaixo e o gerenciador de UserScripts vai reconhecer e pedir para instalar:
 
-> [Clique aqui](https://github.com/prof-ramos/nerdsticker-download/raw/main/nerdsticker-download.user.js)
+➡️ [**Instalar com um clique**](https://github.com/prof-ramos/nerdsticker-download/raw/main/nerdsticker-download.user.js)
 
 **Opção B — Manual:**
 Copie o arquivo `nerdsticker-download.user.js` para a pasta que seu gerenciador monitora.
